@@ -42,4 +42,4 @@ Para contribuir com o projeto, faça um fork desse repositório e mande suas mod
 Projeto desenvolvido sob a licença MIT. Leia o arquivo [LICENSE](https://github.com/vitorjungles/devfinances/blob/master/LICENSE) para mais informações.
 
 
-:earth: Mais linguagens: [English](https://github.com/vitorjungles/devfinances/blob/master/en.md)
+:earth_americas: Mais linguagens: [English](https://github.com/vitorjungles/devfinances/blob/master/en.md)
